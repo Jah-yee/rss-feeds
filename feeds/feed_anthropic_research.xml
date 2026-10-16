@@ -13,7 +13,39 @@
       <link>https://www.anthropic.com/research</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 17:36:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 21:28:17 +0000</lastBuildDate>
+    <item>
+      <title>Oct 16, 2026EconomicsWorking at the frontier shapes expectations for the future</title>
+      <link>https://www.anthropic.com/research/expectations-for-the-future</link>
+      <description>Oct 16, 2026EconomicsWorking at the frontier shapes expectations for the future</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/expectations-for-the-future</guid>
+      <category>Research</category>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oct 16, 2026EconomicsHow employment is changing at Anthropic</title>
+      <link>https://www.anthropic.com/research/employment-at-anthropic</link>
+      <description>Oct 16, 2026EconomicsHow employment is changing at Anthropic</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/employment-at-anthropic</guid>
+      <category>Research</category>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oct 16, 2026EconomicsThe AI expectations gap</title>
+      <link>https://www.anthropic.com/research/ai-expectations-gap</link>
+      <description>Oct 16, 2026EconomicsThe AI expectations gap</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/ai-expectations-gap</guid>
+      <category>Research</category>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oct 16, 2026Frontier Red TeamClaude reveals ECDSA curve origins</title>
+      <link>https://www.anthropic.com/research/ecdsa-curve-origins</link>
+      <description>Oct 16, 2026Frontier Red TeamClaude reveals ECDSA curve origins</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/ecdsa-curve-origins</guid>
+      <category>Research</category>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Oct 16, 2026ScienceDesigning more efficient quantum circuits with Claude</title>
       <link>https://www.anthropic.com/research/designing-efficient-quantum-circuits</link>
@@ -63,30 +95,6 @@
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Oct 1, 2026ScienceClaude-shaped science</title>
-      <link>https://www.anthropic.com/research/claude-shaped-science</link>
-      <description>Oct 1, 2026ScienceClaude-shaped science</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/claude-shaped-science</guid>
-      <category>Research</category>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sep 30, 2026EconomicsWhat work can robots do?</title>
-      <link>https://www.anthropic.com/research/what-work-can-robots-do</link>
-      <description>Sep 30, 2026EconomicsWhat work can robots do?</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/what-work-can-robots-do</guid>
-      <category>Research</category>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sep 29, 2026Frontier Red TeamGLM-5.3 and the spread of advanced cyber capabilities</title>
-      <link>https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities</link>
-      <description>Sep 29, 2026Frontier Red TeamGLM-5.3 and the spread of advanced cyber capabilities</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities</guid>
-      <category>Research</category>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Societal ImpactsSep 29, 2026What do you want from AI? We’re launching a new study using Anthropic Interviewer to learn from your experiences with AI.</title>
       <link>https://www.anthropic.com/research/your-thoughts-on-ai</link>
       <description>Societal ImpactsSep 29, 2026What do you want from AI? We’re launching a new study using Anthropic Interviewer to learn from your experiences with AI.</description>
@@ -108,15 +116,7 @@
       <description>Alignment</description>
       <guid isPermaLink="false">https://www.anthropic.com/research/team/alignment</guid>
       <category>Research</category>
-      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Societal Impacts</title>
-      <link>https://www.anthropic.com/research/team/societal-impacts</link>
-      <description>Societal Impacts</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/team/societal-impacts</guid>
-      <category>Research</category>
-      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Interpretability</title>
@@ -124,15 +124,7 @@
       <description>Interpretability</description>
       <guid isPermaLink="false">https://www.anthropic.com/research/team/interpretability</guid>
       <category>Research</category>
-      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Economics</title>
-      <link>https://www.anthropic.com/research/team/economics</link>
-      <description>Economics</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/team/economics</guid>
-      <category>Research</category>
-      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Frontier Red Team</title>
@@ -140,7 +132,23 @@
       <description>Frontier Red Team</description>
       <guid isPermaLink="false">https://www.anthropic.com/research/team/frontier-red-team</guid>
       <category>Research</category>
-      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Economics</title>
+      <link>https://www.anthropic.com/research/team/economics</link>
+      <description>Economics</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/team/economics</guid>
+      <category>Research</category>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Societal Impacts</title>
+      <link>https://www.anthropic.com/research/team/societal-impacts</link>
+      <description>Societal Impacts</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/team/societal-impacts</guid>
+      <category>Research</category>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
